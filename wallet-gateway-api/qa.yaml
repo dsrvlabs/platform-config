@@ -1,8 +1,0 @@
-# Server Configuration
-server:
-  port: 8080
-  name: wallet-gateway-api
-
-# Health Check
-health:
-  enabled: true
